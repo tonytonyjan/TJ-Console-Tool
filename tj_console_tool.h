@@ -8,5 +8,6 @@
 
 BOOL setTitle(const char* title);
 BOOL setCursorPosition(unsigned short x, unsigned short y);
+BOOL setCursorVisibility(BOOL visible);
 
 #endif  // TJ_CONSOLE_TOOL_TJ_CONSOLE_TOOL_H_
