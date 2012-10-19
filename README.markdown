@@ -1,4 +1,4 @@
-這是一個用於在 Windows console 開發遊戲的函式庫。
+這是一個用於在 Windows console 開發純文字遊戲的函式庫。
 
 以下是一些過去的範例：
 
